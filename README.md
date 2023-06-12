@@ -1,5 +1,7 @@
 # crud-react
 
+<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/CRUD%20React.jpg">
+
 Projeto de gerenciamento de usuários desenvolvido com React, durante o Curso Web Moderno da <a href="https://www.cod3r.com.br/">Cod3r Treinamentos</a>. Neste projeto, o usuário pode cadastrar seus dados, lê-los, editá-los e até mesmo excluí-los, realizando assim as quatro operações básicas de um banco de dados (CRUD - Create, Read, Update and Delete). Os dados do usuário aparecerão abaixo da ficha de cadastro, assim que ele envia o formulário.
 
 Durante o desenvolvimento desse CRUD, aprendi algumas coisas interessantes em React, como: 
@@ -38,5 +40,3 @@ npm start
 ```
 
 * 3. Pronto! Agora tanto o Frontend como o Backend da aplicação estão ativos e ela está pronta.
-
-<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/CRUD%20React.jpg">
