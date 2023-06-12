@@ -27,6 +27,8 @@ npm start
 
 * 3. Pronto! O Backend da aplicação já foi ativado, mas ainda não acabou. Siga os passos do Frontend.
 
+<hr />
+
 ## Frontend
 
 * 1. Abra um novo terminal, seleciona a pasta "frontend" localizada dentro do projeto e digite o código
