@@ -38,7 +38,6 @@ export default class UserCrud extends Component{
             .then(resp => {
                 const list = this.getUpdatedList(resp.data)
                 this.setState({ user: initialState.user, list })
-                window.location.reload(true)
             })
     }
 
@@ -110,8 +109,6 @@ export default class UserCrud extends Component{
                 const list = this.getUpdatedList(user, false)
                 this.setState({ list })
             })
-
-        window.location.reload(true)
     }
 
     renderTable(){
