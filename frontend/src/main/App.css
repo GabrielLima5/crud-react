@@ -1,5 +1,5 @@
 :root{
-    --bg-dark: #1A2F3A;
+    --bg-dark: #015567;
 
     --logo-height: 100px;
     --menu-top-height: 70px;
@@ -14,7 +14,8 @@
 
 *{
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.1rem;
 }
 
 .app{
@@ -76,5 +77,11 @@ footer.footer{
             "menu"
             "content"
             "footer";
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .app{
+        height: 1200px;
     }
 }

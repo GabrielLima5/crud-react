@@ -1,4 +1,9 @@
 main > div{
-    background-color: white;
+    background-color: #062564;
     box-shadow: 0px 0px 15px #0004;
+    color: white;
+}
+
+main.content{
+    background-color: #001745;
 }

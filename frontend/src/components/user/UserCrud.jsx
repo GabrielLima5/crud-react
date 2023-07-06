@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import axios from 'axios'
 import Main from '../templates/Main'
+import './UserCrud.css'
 
 const headerProps = {
     icon: "users",
@@ -115,7 +116,7 @@ export default class UserCrud extends Component{
 
     renderTable(){
         return(
-            <table className="table mt-4">
+            <table className="align-center table mt-4">
                 <thead>
                     <tr>
                         <td>ID</td>
